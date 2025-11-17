@@ -121,7 +121,7 @@ numbers.sort((a, b) => {
 })
 console.log(numbers);
 
-console.log('-------------------');
+console.log('-------------------map');
 
 // map()
 console.log(iveMembers.map((x) => x));
